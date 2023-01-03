@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/FirstReact/static/js/main.10f40b2b.js",
+    "main.js": "/FirstReact/static/js/main.38a08930.js",
+    "static/media/img_1.jpg": "/FirstReact/static/media/img_1.facf9bc78b6793d76be1.jpg",
     "index.html": "/FirstReact/index.html",
-    "main.10f40b2b.js.map": "/FirstReact/static/js/main.10f40b2b.js.map"
+    "main.38a08930.js.map": "/FirstReact/static/js/main.38a08930.js.map"
   },
   "entrypoints": [
-    "static/js/main.10f40b2b.js"
+    "static/js/main.38a08930.js"
   ]
 }
